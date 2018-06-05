@@ -11,4 +11,4 @@ DiagramArrows は、小さなサイズでも視認性を維持できるよう工
 
 それぞれのフォントは、 font-family 指定による組み合わせで利用することを想定しています。
 
-mplus-1m-regular.ttf から利用しているフォントのライセンスは、元ライセンス (M+ FONT LICENSE) が適用されます。本フォント全体は、LICENSE を参照ください。
+mplus-1m-regular.ttf から利用しているフォントのライセンスは、元ライセンス (M+ FONT LICENSE) が適用されます。追加および改変した箇所に関するライセンスは、 MIT ライセンスとします。 LICENSE を参照ください。
